@@ -16,4 +16,4 @@ Matplotlib (version 3.1.1)
 Pandas (version 0.25.1)
 
 Dataset
-The dataset for this project contains 372450 images of alphabets of 28×2, all present in the form of a CSV file.
+The dataset for this project contains 372450 images of alphabets of 28×2, all present in the form of a CSV file:https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
